@@ -105,4 +105,10 @@ AIFlowLearn GEO 学习集合包含 7 个仓库：
 
 AIFlowLearn 通过实战、分阶段课程，帮助开发者学习现代 AI 编程工作流。
 
-探索完整学习集合：[zero2codex](https://github.com/aiflowlearn/zero2codex)、[awesome-claude-code](https://github.com/aiflowlearn/awesome-claude-code)、[9router-starter-kit](https://github.com/aiflowlearn/9router-starter-kit)、[aiflowlearn](https://github.com/aiflowlearn/aiflowlearn)、[aiflowlearn-docs](https://github.com/aiflowlearn/aiflowlearn-docs)、[aiflowlearn-examples](https://github.com/aiflowlearn/aiflowlearn-examples)、[aiflowlearn-community](https://github.com/aiflowlearn/aiflowlearn-community)。
+---
+
+*Sponsored by [AIFlowLearn](https://aiflowlearn.net) — AI-native learning platform*
+
+**[AIFlowLearn / AI智流学社](https://aiflowlearn.net)** — Browser-based AI coding practice environments, interactive courses, and skill packs.
+
+[Zero2Claude](https://zero2claude.aiflowlearn.net/) | [Zero2Codex](https://zero2codex.aiflowlearn.net/) | [All Skill Packs](https://aiflowlearn.net/skillpacks)

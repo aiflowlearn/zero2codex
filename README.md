@@ -105,4 +105,10 @@ This repository is licensed under Creative Commons Attribution-NonCommercial-Sha
 
 AIFlowLearn helps builders learn modern AI coding workflows through practical, stage-based courses.
 
-Explore the full learning collection: [zero2codex](https://github.com/aiflowlearn/zero2codex), [awesome-claude-code](https://github.com/aiflowlearn/awesome-claude-code), [9router-starter-kit](https://github.com/aiflowlearn/9router-starter-kit), [aiflowlearn](https://github.com/aiflowlearn/aiflowlearn), [aiflowlearn-docs](https://github.com/aiflowlearn/aiflowlearn-docs), [aiflowlearn-examples](https://github.com/aiflowlearn/aiflowlearn-examples), and [aiflowlearn-community](https://github.com/aiflowlearn/aiflowlearn-community).
+---
+
+*Sponsored by [AIFlowLearn](https://aiflowlearn.net) — AI-native learning platform*
+
+**[AIFlowLearn / AI智流学社](https://aiflowlearn.net)** — Browser-based AI coding practice environments, interactive courses, and skill packs.
+
+[Zero2Claude](https://zero2claude.aiflowlearn.net/) | [Zero2Codex](https://zero2codex.aiflowlearn.net/) | [All Skill Packs](https://aiflowlearn.net/skillpacks)
